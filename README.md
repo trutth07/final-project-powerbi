@@ -9,7 +9,9 @@
 ---
 
 ### 🖥️ Превью дашборда
-![Продажи и маржинальность](docs/preview.png) <!-- Загрузите скриншот отчета в папку docs/ -->
+![Продажи и маржинальность]
+<img width="1583" height="870" alt="preview" src="https://github.com/user-attachments/assets/d8971bf5-f656-4b9a-aea0-c81d3cc9df97" />
+
 
 ---
 
